@@ -20,7 +20,7 @@
           "
         >
           <img :src="IconGitHub" alt="GitHub" />
-          <span class="text">TBA···</span>
+          <span class="text">9SFo··jdtpump</span>
         </button>
       </a>
     </div>
