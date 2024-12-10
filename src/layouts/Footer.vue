@@ -5,8 +5,6 @@
     >
       Made by
       <a
-        class="link"
-        href="https://avatar.zeabur.site/"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
