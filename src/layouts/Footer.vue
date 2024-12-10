@@ -5,28 +5,15 @@
     >
       Made by
       <a
-        class="link"
-        href="0"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
-        LeoKu
+        Avatar
       </a>
     </div>
-
-    <div class="divider">|</div>
-
     <div class="locale" @click="switchLocale">
       {{ locale === Locale.EN ? '简体中文' : 'English' }}
     </div>
-
-    <div class="divider">|</div>
-
-    <a
-      href="https://zeabur.com?referralCode=Codennnn&utm_source=Codennnn"
-      target="_blank"
-    >
-      <img src="https://zeabur.com/deployed-on-zeabur-dark.svg" />
     </a>
   </footer>
 </template>
