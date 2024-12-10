@@ -6,7 +6,7 @@
       Made by
       <a
         class="link"
-        href="https://leoku.top"
+        href="0"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
