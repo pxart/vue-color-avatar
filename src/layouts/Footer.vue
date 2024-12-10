@@ -5,15 +5,28 @@
     >
       Made by
       <a
+        class="link"
+        href="https://avatar.zeabur.site/"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
         Avatar
       </a>
     </div>
+
+    <div class="divider">|</div>
+
     <div class="locale" @click="switchLocale">
       {{ locale === Locale.EN ? '简体中文' : 'English' }}
     </div>
+
+    <div class="divider">|</div>
+
+    <a
+      href="https://avatar.zeabur.site/"
+      target="_blank"
+    >
+      <img src="https://zeabur.com/deployed-on-zeabur-dark.svg" />
     </a>
   </footer>
 </template>
