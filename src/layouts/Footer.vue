@@ -1,10 +1,12 @@
 <template>
   <footer class="footer">
     <div
-      data-message="If you are deploying to your own public website, please do not modify it unless you have permission from the original author."
+      data-message="Avatar"
     >
       Made by
       <a
+        class="link"
+        href="https://avatar.zeabur.site/"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
@@ -17,7 +19,14 @@
     <div class="locale" @click="switchLocale">
       {{ locale === Locale.EN ? '简体中文' : 'English' }}
     </div>
-    
+
+    <div class="divider">|</div>
+
+    <a
+      href="https://zeabur.com?referralCode=Codennnn&utm_source=Codennnn"
+      target="_blank"
+    >
+      <img src="https://zeabur.com/deployed-on-zeabur-dark.svg" />
     </a>
   </footer>
 </template>
