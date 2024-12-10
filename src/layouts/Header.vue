@@ -6,7 +6,7 @@
 
     <div class="header-right">
       <a
-        href="https://github.com/Codennnn/vue-color-avatar"
+        href="https://pump.fun/"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
@@ -20,7 +20,7 @@
           "
         >
           <img :src="IconGitHub" alt="GitHub" />
-          <span class="text">GitHub</span>
+          <span class="text">TBA···</span>
         </button>
       </a>
     </div>
@@ -62,7 +62,7 @@ import { recordEvent } from '@/utils/ga'
       display: flex;
       align-items: center;
       justify-content: center;
-      width: 9rem;
+      width: 12rem;
       height: 2.6rem;
       overflow: hidden;
       color: var.$color-text;
