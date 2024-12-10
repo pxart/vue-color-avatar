@@ -6,7 +6,7 @@
 
     <div class="header-right">
       <a
-        href="https://pump.fun/"
+        href="https://pump.fun/coin/9SFobfT9sFjTrqebJrkDAWyMAsqMf7Mk3Rhwyjdtpump"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
