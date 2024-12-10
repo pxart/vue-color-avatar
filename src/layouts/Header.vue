@@ -76,9 +76,13 @@ import { recordEvent } from '@/utils/ga'
       &:hover {
         background-color: darken(var.$color-dark, 3);
       }
-
+      img {
+      width: 1.5rem;
+      height: 1.5rem; 
+      }
+  
       .text {
-        margin-left: 0.5rem;
+        margin-left: 0.2rem;
         letter-spacing: 0.03rem;
       }
     }
