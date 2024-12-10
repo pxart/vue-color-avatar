@@ -2,7 +2,7 @@
   <header class="header">
     <Logo />
 
-    <h2 class="site-title">Color Avatar</h2>
+    <h2 class="site-title">Avatar</h2>
 
     <div class="header-right">
       <a
