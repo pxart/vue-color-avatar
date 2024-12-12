@@ -1,12 +1,12 @@
 <template>
   <footer class="footer">
     <div
-      data-message="Avatar"
+      data-message="Painter"
     >
       Made by
       <a
         class="link"
-        href="https://avatar.zeabur.site/"
+        href="https://painter.zeabur.app/"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
