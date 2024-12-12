@@ -6,7 +6,7 @@
 
     <div class="header-right">
       <a
-        href="https://pump.fun/board"
+        href="https://pump.fun/coin/2EcWUPif6sSvG3sx2HJi58niuB3tujsoFqnvUgsLpump"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
@@ -20,7 +20,7 @@
           "
         >
           <img :src="IconGitHub" alt="GitHub" />
-          <span class="text">CA-TBA</span>
+          <span class="text">2Ec··gsLpump</span>
         </button>
       </a>
     </div>
