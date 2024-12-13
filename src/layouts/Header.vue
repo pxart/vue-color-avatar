@@ -2,11 +2,11 @@
   <header class="header">
     <Logo />
 
-    <h2 class="site-title">Painter</h2>
+    <h2 class="site-title">illustration</h2>
 
     <div class="header-right">
       <a
-        href="https://pump.fun/coin/2EcWUPif6sSvG3sx2HJi58niuB3tujsoFqnvUgsLpump"
+        href="https://pump.fun/"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
@@ -20,7 +20,7 @@
           "
         >
           <img :src="IconGitHub" alt="GitHub" />
-          <span class="text">2Ec··gsLpump</span>
+          <span class="text">CA:TBA</span>
         </button>
       </a>
     </div>
