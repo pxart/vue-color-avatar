@@ -6,7 +6,7 @@
       Made by
       <a
         class="link"
-        href="https://illustrations.zeabur.app/"
+        href="https://illustration.zeabur.app/"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
