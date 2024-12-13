@@ -1,7 +1,7 @@
 <template>
   <footer class="footer">
     <div
-      data-message="illustrations"
+      data-message="illustration"
     >
       Made by
       <a
