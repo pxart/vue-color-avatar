@@ -3,14 +3,14 @@
     <div
       data-message="GEAV"
     >
-      Made by
+      Telegram
       <a
         class="link"
-        href="https://generative.zeabur.app/"
+        href="https://t.me/+g1ZuFkA9fJo4OTJl"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
-        Aavatar
+        GEAV
       </a>
     </div>
 
