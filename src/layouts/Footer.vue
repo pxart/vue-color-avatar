@@ -6,11 +6,11 @@
       Made by
       <a
         class="link"
-        href="https://illustration.zeabur.app/"
+        href="https://colour.zeabur.app/"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
-        illustration
+        Aavatar
       </a>
     </div>
 
