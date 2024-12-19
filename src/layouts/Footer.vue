@@ -1,12 +1,12 @@
 <template>
   <footer class="footer">
     <div
-      data-message="illustration"
+      data-message="GEAV"
     >
       Made by
       <a
         class="link"
-        href="https://colour.zeabur.app/"
+        href="https://generative.zeabur.app/"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
