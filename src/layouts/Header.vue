@@ -2,7 +2,7 @@
   <header class="header">
     <Logo />
 
-    <h2 class="site-title">Colour avatar</h2>
+    <h2 class="site-title">GEAV</h2>
 
     <div class="header-right">
       <a
